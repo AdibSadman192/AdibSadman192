@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Fresh Graduate
 --------------
-[![Portfolio](https://img.shields.io/badge/Pqge-%06AC38.svg?logo=PagerDuty&logoColor=white)](https://adibsadman.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%06AC38.svg?logo=PagerDuty&logoColor=white)](https://adibsadman.netlify.app)
 
 # 💫 About Me:
 <br>    🌍  I'm based in Dhaka , Bangladesh<br>    ✉️  You can contact me at adib.sadman@outlook.com<br>    🧠  I'm learning Typescript, NEXT JS, Tailwind CSS, Hostinger, Annotation<br>    🤝  I'm open to collaborating on Software Development, Software Support, <br>    Web Development, Techniqal Support, Networking, OS Development<br>
