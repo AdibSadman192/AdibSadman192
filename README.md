@@ -26,5 +26,8 @@ Fresh Graduate
 ![](https://github-contributor-stats.vercel.app/api?username=AdibSadman192&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdibSadman192&icon=5&color=8)](https://visitcount.itsvg.in)
+## Repository View Counter
+
+<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=38248&s=1' border='0' alt='Free Website Counter'></a><br/><small>
+
 
