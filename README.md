@@ -109,15 +109,14 @@ const adib = {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibSadman192&theme=tokyonight" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdibSadman192&theme=react-dark&hide_border=true&area=true" width="100%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdibSadman192&theme=react-dark&hide_border=true&area=true" width="80%">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdibSadman192&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=AdibSadman192&theme=tokyonight&hide_border=true" />
+  <img width="28%" src="https://github-readme-stats.vercel.app/api?username=AdibSadman192&show_icons=true&theme=tokyonight&hide_border=true" />
+  
 </p>
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=AdibSadman192&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 ### 🔝 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdibSadman192&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AdibSadman192)
@@ -127,13 +126,13 @@ const adib = {
 
 ---
 
-
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="50%">
   </picture>
-  
+</div>
 </div>
 </div>
 
