@@ -119,7 +119,7 @@ const adib = {
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AdibSadman192&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
-### 🔝 Top Contributed Repositories
+### 🔝 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdibSadman192&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AdibSadman192)
 
 </div>
@@ -127,9 +127,7 @@ const adib = {
 
 ---
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-<div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
