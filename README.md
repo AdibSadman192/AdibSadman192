@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adib Sadman
 ===================================================================================================================================
 
-Fresh Graduate
+Graduate
 --------------
-[![Portfolio](https://img.shields.io/badge/Portfolio-%06AC38.svg?logo=PagerDuty&logoColor=white)](https://adibsadman.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%06AC38.svg?logo=PagerDuty&logoColor=white)](https://adibsadman.vercel.app)
 
 # 💫 About Me:
 <br>    🌍  I'm based in Dhaka , Bangladesh<br>    ✉️  You can contact me at adib.sadman@outlook.com<br>    🧠  I'm learning Typescript, NEXT JS, Tailwind CSS, Hostinger, Annotation<br>    🤝  I'm open to collaborating on Software Development, Software Support, <br>    Web Development, Techniqal Support, Networking, OS Development<br>
