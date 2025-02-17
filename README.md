@@ -113,14 +113,14 @@ const adib = {
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AdibSadman192&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdibSadman192&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=AdibSadman192&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AdibSadman192&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 ### 🔝 Top Contributed Repositories
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=AdibSadman192&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdibSadman192&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AdibSadman192)
 
 </div>
 </details>
@@ -129,8 +129,13 @@ const adib = {
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-
-<img src="https://github.com/AdibSadman192/AdibSadman192/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+  
+</div>
 </div>
 
