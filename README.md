@@ -12,7 +12,7 @@
 
 ## 🎓 Graduate | 💻 Full Stack Developer | 🌐 Tech Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%06AC38.svg?style=for-the-badge&logo=PagerDuty&logoColor=white)](https://adibsadman.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%06AC38.svg?style=for-the-badge&logo=PagerDuty&logoColor=white)](https://adibsadman.me)
 [![Profile Views](https://komarev.com/ghpvc/?username=AdibSadman192&style=for-the-badge&color=blueviolet)](https://github.com/AdibSadman192)
 
 <a href="https://github.com/AdibSadman192" target="_blank">
