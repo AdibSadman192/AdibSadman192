@@ -10,7 +10,7 @@
 
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">, I'm Adib Sadman
 
-## 🎓 Graduate | 💻 Full Stack Developer | 🌐 Tech Enthusiast
+## 🎓 Software Engineer | 💻 Full Stack Developer | 🌐 Tech Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%06AC38.svg?style=for-the-badge&logo=PagerDuty&logoColor=white)](https://adibsadman.me)
 [![Profile Views](https://komarev.com/ghpvc/?username=AdibSadman192&style=for-the-badge&color=blueviolet)](https://github.com/AdibSadman192)
