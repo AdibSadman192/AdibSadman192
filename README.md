@@ -24,8 +24,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<details open>
-<summary><h2>🚀 About Me</h2></summary>
+---
+
+## 🚀 About Me
 
 ```javascript
 const adib = {
@@ -39,14 +40,24 @@ const adib = {
     "Technical Support",
     "Networking",
     "OS Development"
+  ],
+  hobbies: [
+    "Photography",
+    "Gaming",
+    "Traveling"
   ]
 };
 ```
 
-</details>
+---
 
-<details open>
-<summary><h2>🤝 Connect With Me</h2></summary>
+## ✨ Fun Fact
+
+> "I believe that a bug in code is just a misunderstood feature waiting to shine."
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -56,14 +67,13 @@ const adib = {
 
 </div>
 
-</details>
+---
+
+## 💻 Tech Stack
 
 <details open>
-<summary><h2>💻 Tech Stack</h2></summary>
+<summary><h3>Programming Languages</h3></summary>
 
-<div align="center">
-
-### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -73,7 +83,11 @@ const adib = {
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend Development
+</details>
+
+<details open>
+<summary><h3>Frontend Development</h3></summary>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -81,48 +95,36 @@ const adib = {
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Backend & Databases
+</details>
+
+<details open>
+<summary><h3>Backend & Databases</h3></summary>
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Cloud Platforms
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
 </details>
 
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibSadman192&theme=tokyonight" />
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdibSadman192&theme=react-dark&hide_border=true&area=true" width="80%">
 
 <p align="center">
   <img width="28%" src="https://github-readme-stats.vercel.app/api?username=AdibSadman192&show_icons=true&theme=tokyonight&hide_border=true" />
-  
 </p>
-
 
 ### 🔝 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdibSadman192&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AdibSadman192)
 
 </div>
-</details>
 
 ---
 
@@ -133,6 +135,3 @@ const adib = {
     <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="50%">
   </picture>
 </div>
-</div>
-</div>
-
