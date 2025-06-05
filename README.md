@@ -32,7 +32,7 @@
 const adib = {
   location: "Dhaka, Bangladesh",
   status: "Open for exciting opportunities",
-  contact: "adib.sadman@outlook.com",
+  contact: "adibsadman.dev@proton.me",
   currentlyLearning: ["TypeScript", "Next.js", "Tailwind CSS", "Hostinger", "Annotation"],
   interests: [
     "Software Development",
