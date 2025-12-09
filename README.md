@@ -114,15 +114,22 @@ const adib = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibSadman192&theme=tokyonight" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdibSadman192&theme=react-dark&hide_border=true&area=true" width="80%">
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AdibSadman192&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img width="28%" src="https://github-readme-stats.vercel.app/api?username=AdibSadman192&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdibSadman192&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdibSadman192&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🔝 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdibSadman192&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AdibSadman192)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdibSadman192&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdibSadman192&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibSadman192&theme=tokyonight" width="98%" />
 
 </div>
 
