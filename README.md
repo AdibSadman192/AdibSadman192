@@ -126,7 +126,7 @@ const adib = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdibSadman192&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdibSadman192&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdibSadman192&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
 </p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibSadman192&theme=tokyonight" width="98%" />
