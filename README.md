@@ -117,13 +117,6 @@ const adib = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibSadman192&theme=tokyonight" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdibSadman192&theme=react-dark&hide_border=true&area=true" width="80%">
 
-<p align="center">
-  <img width="28%" src="https://github-readme-stats.vercel.app/api?username=AdibSadman192&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🔝 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdibSadman192&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AdibSadman192)
-
 </div>
 
 ---
