@@ -33,7 +33,6 @@ const adib = {
   location: "Dhaka, Bangladesh",
   status: "Open for exciting opportunities",
   contact: "adibsadman.dev@proton.me",
-  currentlyLearning: ["TypeScript", "Next.js", "Tailwind CSS", "Hostinger", "Annotation"],
   interests: [
     "Software Development",
     "Web Development",
@@ -43,8 +42,7 @@ const adib = {
   ],
   hobbies: [
     "Photography",
-    "Gaming",
-    "Traveling"
+    "Gaming"
   ]
 };
 ```
