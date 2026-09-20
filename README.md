@@ -91,11 +91,6 @@ const adib = {
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AdibSadman192&layout=compact&langs_count=8&title_color=FF4500&text_color=E8E8E8&bg_color=160808&border_color=C1121F" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdibSadman192&bg_color=160808&line=FF4500&point=FF6B35&area=true&area_color=FF4500&title_color=FF6B35&hide_border=true" width="100%" alt="Contribution Graph" />
-    </td>
-  </tr>
 </table>
 
 </div>
